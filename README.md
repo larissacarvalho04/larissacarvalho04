@@ -49,7 +49,7 @@ Engenheira de Inteligência Artificial & Graduanda em Ciência da Computação
 
 <h4 align="center">Estatísticas do Perfil 🎯</h4>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=larissacarvalho04&show_icons=true&theme=vision-friendly-dark"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=larissacarvalho04&count_private=true&show_icons=true&theme=vision-friendly-dark"/>
 </p>
 
 <h4 align="center">Streak</h4>
